@@ -22,7 +22,7 @@ It applies **computer vision techniques** to:
 Below is an example of how the script detects colors in an image:
 
 ### 🖼 **Input Image**
-![Image](https://github.com/user-attachments/assets/6cbb39b9-3752-450d-ad34-7c7781328673)
+<img width="319" alt="Image" src="https://github.com/user-attachments/assets/721e46e1-801d-4219-aeab-50cc9f3932f7" />
 
 ### 🎯 **Processed Output**
 <img width="575" alt="Image" src="https://github.com/user-attachments/assets/ee4240cc-c04f-4be1-901d-8aafc2f6ff08" />
