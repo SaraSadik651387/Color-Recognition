@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?style=flat-square&logo=opencv)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?style=flat-square&logo=googlecolab)
-![License](https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square)
 
 ---
 
@@ -81,3 +80,60 @@ for color_name, (lower, upper) in colors.items():
             cv2.putText(image, color_name, (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 1.5, (255, 255, 255), 3)
 
 cv2_imshow(image)
+```
+## 🛠 Setup & Installation  
+
+### 📌 1. Clone the Repository  
+📥 **If you want to run the project locally on your computer:**  
+Open **Terminal** or **Command Prompt**, then copy and paste this command:
+
+**Command:**  
+`git clone https://github.com/SaraSadik651387/Color-Recognition.git`  
+`cd Color-Recognition-OpenCV`  
+
+---
+
+### 📌 2. Install Dependencies  
+📦 **Make sure you have all required libraries installed.**  
+
+**Command:**  
+`pip install opencv-python numpy`  
+
+🔹 **Libraries:**  
+- **`opencv-python`** → OpenCV library for image processing.  
+- **`numpy`** → Numerical operations library for handling images.  
+
+---
+
+### 📌 3. Run the Script Locally  
+📸 **To execute the color detection script:**  
+
+**Command:**  
+`python Color_Recognition.ipynb`  
+
+---
+
+### 📌 4. Run the Project in Google Colab  
+📌 **If you prefer running the project in Google Colab (without installing anything on your device), follow these steps:**  
+
+**Steps in Google Colab:**  
+1. Upload the image you want to test (Go to **Files → Upload**).  
+2. Run all the cells step by step.  
+3. Watch the results directly in your browser.  
+
+---
+
+### 📌 5. Upload Your Own Images  
+📸 **To test different images, upload any image to Google Colab:**  
+
+**Steps:**  
+1. Click the Files icon in Colab.  
+2. Select "Upload" and choose an image from your device.  
+3. Replace `image_path` in the code with your uploaded image name:  
+
+**Example:**  
+`image_path = "/content/YOUR_IMAGE_NAME.jpg"`  
+
+🔹 **Notes:**  
+- Run the code and see the results!  
+
