@@ -22,10 +22,11 @@ It applies **computer vision techniques** to:
 Below is an example of how the script detects colors in an image:
 
 ### 🖼 **Input Image**
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Traffic_lights.jpg" width="450" height="300">
+![Image](https://github.com/user-attachments/assets/6cbb39b9-3752-450d-ad34-7c7781328673)
 
 ### 🎯 **Processed Output**
-<img src="https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg" width="450" height="300">
+<img width="575" alt="Image" src="https://github.com/user-attachments/assets/ee4240cc-c04f-4be1-901d-8aafc2f6ff08" />
+
 
 ---
 
