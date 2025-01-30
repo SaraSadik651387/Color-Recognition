@@ -143,10 +143,7 @@ Open **Terminal** or **Command Prompt**, then copy and paste this command:
 **Steps:**  
 1. Click the Files icon in Colab.  
 2. Select "Upload" and choose an image from your device.  
-3. Replace `image_path` in the code with your uploaded image name:  
-
-**Example:**  
-`image_path = "/content/YOUR_IMAGE_NAME.jpg"`  
+3. Replace `image_path` in the code with your uploaded image name:    
 
 🔹 **Notes:**  
 - Run the code and see the results!  
